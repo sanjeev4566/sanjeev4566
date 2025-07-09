@@ -1,4 +1,4 @@
-![logo](https://github.com/sanjeev4566/sanjeev4566/blob/main/OIP.jpeg)
+
 <h1 align="center">Hi 👋, I'm Sanjeev Saxena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
